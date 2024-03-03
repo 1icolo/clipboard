@@ -1,4 +1,4 @@
 # clipboard
 clipboard
 
-*&qZ2js^odDYSXWLjMryYf94KAv3w4X7*Dhw$^MdKi2Q*VsZR#
+warp://auth/desktop_redirect?refresh_token=AMf-vBwYEV5eiDV14kt1mm0DjV51m2jaG9UyJTRfQvcwcQNjZi_VZY_74aNDoL5vpgO5KIPYpbhm_NXECzitKWbAaVTaU5PsxkKpICWMmXZrcKPygQ-WB6N8cqnVH7ooHbigv1REZtshN5mSDfiKw3xi_q_ln_MG1vKhBk3QsW2lMgn0qBsjxEFvtiEOS7cmAAtVA4SiTs562Nmw-62KZkchl-KfOW3xLi0-QDmVPRw2WfMpY3zGreE&is_user_new=true&is_onboarded=false
