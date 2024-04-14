@@ -1,3 +1,3 @@
 # clipboard
-https://www.mediafire.com/file/9tvxw1e49q2yhzn/Bahay.pdf/file
+https://www.mediafire.com/file/0sucte0t3cfy9l6/Floor_Plan.pdf/file
 
